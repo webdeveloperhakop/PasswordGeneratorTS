@@ -217,6 +217,7 @@ main{
     margin-right: 4px;
     vertical-align: sub;
 
+    
     position: relative;
 }
 
@@ -262,6 +263,7 @@ main{
 @media(max-width: 630px){
     .result-password-wrapper{
         width: 100%;
+        padding: 12px;
     }
 
     .password-result-create-btn{
@@ -269,7 +271,7 @@ main{
     }
 
     .create-btn{
-        padding: 12px;
+        padding: 12px 0;
     }
 
     .password-length{
